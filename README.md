@@ -1,3 +1,3 @@
 # LaParaDeNecc
 
-This project is owned by Anthony Mirely & Andres Perez
+This project is owned by Anthony, Andres, and everyone at the code bootcamp from NECC. 
